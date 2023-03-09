@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="80"/>
 </div>
 
-<div id="badges">
+<div align="center" id="badges">
    <a href="https://www.linkedin.com/in/sonica-sinha/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>

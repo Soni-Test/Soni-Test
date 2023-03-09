@@ -28,8 +28,8 @@
 ---
 
 - 👋 Hi, I’m Sonica Sinha :woman_technologist:
-- 👀 I’m interested in Python | MySQL | PostgreSQL | Advance Excel | Machine Learning | Tableau | NLP | PowerBi | Google Looker Studio
-- 🌱 I’m currently a Data Science intern cum enthuast 
+- 🌱 I’m currently a Data Science intern cum enthusiast 
+- :zap: I’m interested in Python | MySQL | PostgreSQL | Advance Excel | Machine Learning | Tableau | NLP | PowerBi | Google Looker Studio
 - 👀 I’m looking for positions as Data Scientist / Data Analyst / Data Analytics / Buisness Analyst
 - 📫 How to reach me [Gmail](sonicasinha2012@gmail.com) or connect me on [LinkedIn](www.linkedin.com/in/sonica-sinha) </br>
 

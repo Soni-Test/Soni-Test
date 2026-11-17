@@ -103,6 +103,9 @@ A selection of hands-on projects spanning data engineering, analytics, machine l
 ![ scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=googlegemini&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Tool%20Calling-6A5ACD?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-7B61FF?style=flat-square)
 
 ## GitHub activity

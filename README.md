@@ -108,8 +108,8 @@ A selection of hands-on projects spanning data engineering, analytics, machine l
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Soni-Test&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soni-Test&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Soni-Test&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Soni-Test&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </div>
 
 <div align="center">
